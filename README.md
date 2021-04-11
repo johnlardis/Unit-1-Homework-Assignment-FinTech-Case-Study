@@ -1,9 +1,64 @@
 # Unit-1-Homework-Assignment-FinTech-Case-Study
 # Cardano - Defi Crypto 
 
-![image](cardano_logo.jpg)
+![Cardano](cardano_logo.jpg)
 
-**hello**
+**Hello**
+
+*word*
+
+---
+
+'word'
+
+> "Quote"
+
+[readme.md]  
+
+[Link to Google](www.google.com)
+
+www.google.com
+
+
+# 1
+## 1
+### 1
+#### 1
+##### 1
+###### 1
+
+**Hi** *how are you?*
+
+1. Hello
+1. 
+3. 
+4. 
+1. 
+    
+> this is a block quote 
+'<no idea what this is>'
+
+
+   }
+
+
+
+|First Header | Second Header|
+-------- | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
+
+Hello | What 
+-----|-----
+1 | 2
+jsffijfifinfinfinfinfinf| fndndgnigniognogingongoingng
+
+
+
+
+
 
 ## Overview and Origin (just testing to see if commit is working)
 
@@ -55,3 +110,10 @@ What solution does this company offer that their competitors do not or cannot of
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+
+
+
+
+---
+## References 
