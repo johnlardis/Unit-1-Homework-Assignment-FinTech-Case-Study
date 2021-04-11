@@ -1,7 +1,9 @@
 # Unit-1-Homework-Assignment-FinTech-Case-Study
-# TITLE
+# Cardano - Defi Crypto 
 
-## Overview and Origin
+![image](cardano_logo.jpg)
+
+## Overview and Origin (just testing to see if commit is working)
 
 * Name of company
 
