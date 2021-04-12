@@ -20,7 +20,7 @@ Cardano is a crypto platform organised as a (DAC) decentralised autonomous corpo
 
 It is the first fully decentralised cryptocurrency to be founded on peer-reviewed research and developed through evidence-based methods, developing on first and second generation technologiies development within the crypocurrency space. 
 
-Cardano founders see it has being a humaniatrion project set out to introduce  decentralised financial infastructure into third world nations to provide those socitiies with the same privelages seen in first world nations. Specifically the companies sets out the achive the following mission: 
+Cardano founders see it has being a humanitarian project set out to introduce  decentralised financial infastructure into third world nations to provide those socitiies with the same privelages seen in first world nations. Specifically the companies sets out the achive the following mission: 
 
  >Cardano exists to redistribute power from unaccountable structures to the margins – to individuals – and be an enabling force for positive change and progress.
 
@@ -30,7 +30,7 @@ The Cardano platform began development in 2015 and was launched in 2017 by Charl
 
 ## Who are the founders of Cardano?
 
-![IOHK_founders](IOHK_founders.jpg)
+
 
 ### **Charles Hoskinson**
 
@@ -42,7 +42,7 @@ This led to Hoskinson becoming one of the eight original co-founders of Ethereum
 
 Later in 2014, Hoskinson collaborated with former Ethereum employee Jeremy Wood to create IOHK. IOHK’s aim was to be a third-party development company that would assist companies, government entities and academic institutions in building cryptocurrencies and blockchains.
 
-Ethereum split into two following a controversial upgrade in 2016, leading to the creation of Ethereum Classic. Hoskinson became one of the leading supporters of the platform, using resources and developers from IOHK to build up the cryptocurrency. Today, IOHK is primarily involved in its own smart-contract cryptocurrency Cardano (ADA), which aims to compete with Ethereum.
+
 >![Charles_Hoskinson](Charles_H.jfif)
 
 ### **Jeremy Wood**
@@ -84,9 +84,7 @@ In addition, while the platform has been desinged with the intention of eabling 
 
 When Cardano initially launched, the network reserved 5 billion ADA for its three development teams. The currency debuted with a market cap of $600 million. By the intial release 1.0.1 on the 27th if September 2017, it had a market cap of $10 billion, and reached a value of $33 billion briefly in 2018 before a general tightening of the crypto market dropped its value back to $10 billion. 
 
- #################Note fix this ###################
-
-**Embargo** – Acts as a large funding entity to financially support Cardano and assist with its development.
+ 
 
 ### **Initial Coin Offering** 
 
@@ -170,7 +168,7 @@ Cardono, like all other cryptocurrencies utlises blockchain technology. A blockc
 
 ### **Proof of Stake**
 
-Cardano works on a specially designed proof-of-stake (PoS) blockchain protocol for consensus called Ouroboros. This consensus mechanism allows for ADA to be sent and received easily and securely at all times, while also ensuring the safety of smart contracts on the Cardano blockchain. At the same time, as a PoS consensus mechanism, Ourboros provides rewards to token holders who stake their ADA to the network and help ensure network consensus.
+Cardano works on a specially designed proof-of-stake (PoS) blockchain protocol for consensus called Ouroboros. 
 
 The Ourboros process works in the follow steps:  
 
@@ -224,43 +222,21 @@ Centralisation and transparency has been disrupted the most over the last 5 year
 3. Chain Link 
 4. Pancake 
 
-
-
-
-
-# Results
-
-## What has been the business impact of this company so far?
-
-The success of Cardano will be a gradual process of adoption. We will see commercial usage and probably many attempts to build something useful. IOHK and Cardano Foundation teams work on adoption mainly in developing countries. Many investors are impatient and judge the project just by the current price. It is very misleading. At the moment, Cardano is just in front of launching the main-net. If Cardano will be socially valuable then the price will reflect it. It is just about the adoption of technology. In the case of Cardano, there is definitely something to adopt. But people and time have to decide.
-
-
-## How is your company performing relative to competitors in the same domain?
-
-Development timeline. Much of the Cardano network is still under development. Cardano’s Basho release to manage scaling issues could be months (if not years) away.
-
-Second-mover disadvantage. Ethereum already has a strong first-mover advantage in NFTs; Cardano developers will need to work quickly on the Goguen release before Ethereum pulls away any further.
-
-Cryptocurrency risk. All cryptocurrencies involve systemic risk. They’re fundamentally worth zero and only have value because other people say they do.
-
-That means investors should spread their bets across multiple asset classes and coins. Even the top cryptocurrencies could fall to zero if interest in them fades.
-
-
 # Recommendations
 
 ## If you were to advise the company, what products or services would you suggest they offer?
 
+
+
 ### **Introduction of "Traditional" bank accounts**
+
+Adoption is a key part of seeing Defi go main stream. The requirements to access the current protocol can be technical for the average user. To ensure adoption update is maximised, intergration project should exisist to build ways of giving ADA similiar characteristics as traditional bank accounts. i.e BSB and Accounts numbers. 
 
 ### **Lead the development of exchange interfaces**
 
-### **Simply the Staking Process using traditional structures** 
+Again, in line with adoption, an interface between traditional methods of transactions should be in place. Having integrations available at shopping cart levels, to allow for ADA payments will allow for the currency to become better used across current economic systems. 
 
 
-
-## What technologies would this additional product or service utilize?
-
-Traditional banking systems 
 
 
 
